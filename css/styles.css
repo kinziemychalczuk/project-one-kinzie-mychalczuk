@@ -50,6 +50,7 @@ nav {
     color: #ffffff;
     display: flex;
     align-items: center;
+    align-content: center;
 }
 
 nav ul {
