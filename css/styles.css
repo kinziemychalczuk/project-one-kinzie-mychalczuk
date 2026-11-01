@@ -66,6 +66,8 @@ header {
 
 .hero p {
     width: 50%;
+    margin-left: auto;
+    align-items: center;
 }
 
 /* main */
