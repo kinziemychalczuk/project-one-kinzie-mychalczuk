@@ -85,8 +85,8 @@ section {
     grid-template-columns: subgrid;
 }
 
-section h2 p {
-    grid-column: span 6;
+section h2 {
+    grid-column: 1 / 13;
 }
 
 article {
