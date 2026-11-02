@@ -65,10 +65,9 @@ header {
 }
 
 .hero p {
-    width: 50%;
+    width: 100%;
     text-align: center;
     padding: 10px;
-    grid-column: 1 / span 12;
 }
 
 /* main */
