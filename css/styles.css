@@ -93,6 +93,15 @@ article {
     grid-column: span 4;
 }
 
+div {
+    background-color: yellow;
+    padding: 20px;
+    display: none;
+}
+span:hover + div {
+    display: block;
+}
+
 /* footer */
 footer {
     grid-column: 1 / 13;
