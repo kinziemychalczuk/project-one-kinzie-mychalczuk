@@ -68,6 +68,7 @@ header {
     width: 50%;
     text-align: center;
     padding: 10px;
+    grid-column: 1 / span 12;
 }
 
 /* main */
