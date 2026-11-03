@@ -144,3 +144,12 @@ footer {
 .box-1 {
     grid-column: span 3;
 }
+.box-2 {
+    grid-column: span 3;
+}
+.box-3 {
+    grid-column: span 3;
+}
+.box-4 {
+    grid-column: span 3;
+}
