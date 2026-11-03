@@ -128,3 +128,14 @@ footer {
     grid-column: 1 / 13;
     text-align: center;
 }
+
+.grid-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.grid-row div {
+    border: solid 1px black;
+    min-height: 20px;
+}
