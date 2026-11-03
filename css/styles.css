@@ -24,7 +24,7 @@ body {
 
 /* heading styling */
 h1, h2, h3 {
-
+    margin-left: 32px;
 }
 
 /* links */
@@ -35,7 +35,7 @@ a {
 
 /* other copy */
 p {
-
+    margin-left: 48px;
 }
 
 img {
