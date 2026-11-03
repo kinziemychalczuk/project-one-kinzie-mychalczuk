@@ -8,7 +8,6 @@
 /* body copy and grid starter */
 body {
     /* the page grid: 12 columns, same as your figma frame */
-    max-width: 1440px;
     margin: 48 px auto;
     display: grid;
     grid-template-rows: auto;
