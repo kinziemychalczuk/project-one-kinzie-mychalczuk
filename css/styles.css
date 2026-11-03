@@ -104,6 +104,8 @@ span:hover + div {
 
 /* footer */
 footer {
+    background-color: #111;
+    color: #ffffff;
     grid-column: 1 / 13;
     text-align: center;
 }
