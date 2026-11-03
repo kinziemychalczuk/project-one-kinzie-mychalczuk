@@ -108,6 +108,8 @@ span:hover + div {
 
 span {
     font-size: 24px;
+    border: 2px solid #111;
+    padding: 10px;
 }
 
 /* footer */
