@@ -131,6 +131,7 @@ footer {
 
 .grid-row {
     display: grid;
+    grid-column: span 10;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
@@ -138,4 +139,8 @@ footer {
 .grid-row div {
     border: solid 1px black;
     min-height: 20px;
+}
+
+.box-1 {
+    grid-column: span 3;
 }
