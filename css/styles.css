@@ -100,6 +100,7 @@ article {
 div {
     padding: 20px;
     display: none;
+    grid-column: span 6;
 }
 
 span:hover + div {
