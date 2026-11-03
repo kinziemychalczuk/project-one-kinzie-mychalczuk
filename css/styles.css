@@ -86,7 +86,11 @@ section {
 }
 
 section h2 {
-    grid-column: 5 / 13;
+    grid-column: 1 / 13;
+}
+
+section p {
+    grid-column: span 4;
 }
 
 article {
