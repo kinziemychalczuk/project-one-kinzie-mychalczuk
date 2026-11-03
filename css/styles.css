@@ -64,13 +64,11 @@ header {
     grid-column: 1 / 13;
     width: 100%;
     text-align: center;
-    margin-left: 10px;
 }
 
 .hero p {
     width: 100%;
     text-align: center;
-    padding: 10px;
 }
 
 /* main */
@@ -101,6 +99,7 @@ article {
 
 div {
     padding: 20px;
+    margin-left: 10px;
     display: none;
     grid-column: span 6;
 }
@@ -116,6 +115,7 @@ span {
     min-width: 100px;
     min-height: 100px;
     gap: 32px;
+    margin-left: 10px;
 }
 
 /* footer */
