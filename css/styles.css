@@ -63,7 +63,8 @@ nav ul {
 header {
     grid-column: 1 / 13;
     width: 100%;
-    text-align: center; 
+    text-align: center;
+    margin-left: 10px;
 }
 
 .hero p {
@@ -83,6 +84,7 @@ section {
     grid-column: span 6;
     display: grid;
     grid-template-columns: subgrid;
+    margin-left: 10px;
 }
 
 section h2 {
