@@ -64,9 +64,23 @@ header {
     text-align: center;
 }
 
-.hero p {
+.hero {
     width: 100%;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    min-height: 520px;
+    padding: 48px 32px;
+    background: #bb0707;
+    color: #f4f1ea;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 64px;
 }
 
 /* main */
