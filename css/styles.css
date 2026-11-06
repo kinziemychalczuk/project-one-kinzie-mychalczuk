@@ -45,16 +45,25 @@ img {
 /* nav */
 nav {
     background-color: #111;
-    color: #ffffff;
     display: flex;
     align-items: center;
 }
 
+nav a {
+    color: #fbf8f3;
+    text-decoration: none;
+    font-size: 15px;
+}
+
 nav ul {
     display: flex;
-    gap: 32px;
     list-style: none;
-    margin-left: auto;
+    display: grid;
+    grid-template: auto / auto auto auto auto auto;
+    gap: 34px;
+    width: max-content;
+    margin: 0px auto;
+    padding: 16px 24px;
 }
 
 /* header */
